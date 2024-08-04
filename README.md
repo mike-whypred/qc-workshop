@@ -29,3 +29,4 @@ WP x QC Data Workshop 5/8/2024
 Notebooks are run in Google Colab and will require a colab account.
 
 ---
+© 2024 WhyPred. All rights reserved.
