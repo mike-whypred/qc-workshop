@@ -15,7 +15,7 @@ WP x QC Data Workshop 5/8/2024
 ## Notebooks
 1. [Python Fundamentals](https://colab.research.google.com/drive/1rnYK2BGTUoq3k-AL1TeeHHhYUTv_pkxY?usp=sharing)
 2. [Financial Data Analysis](https://colab.research.google.com/drive/18EaQZJxIvk2mb7PpJXDZjqKWba6TVSXY?usp=sharing)
-3. Other
+3. [Polars Example](https://colab.research.google.com/drive/1UeKejdDwVJgmETr4junWtEtvuqx2RigV?usp=sharing)
    
 ## Resources
 - [Polars](https://pola.rs/)
