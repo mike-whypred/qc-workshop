@@ -3,7 +3,7 @@
 
 
 ## Overview
-WP x QC Data Workshop
+WP x QC Data Workshop 5/8/2024
 
 ## Objectives
 - Introduction to Python concepts for data analysis
