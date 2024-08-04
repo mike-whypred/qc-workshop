@@ -13,8 +13,8 @@ WP x QC Data Workshop 5/8/2024
 - Useful patterns
 
 ## Notebooks
-1. [Python Fundamentals](https://github.com/mike-whypred/qc-workshop)
-2. [Working with Dataframes]()
+1. [Python Fundamentals](https://colab.research.google.com/drive/1rnYK2BGTUoq3k-AL1TeeHHhYUTv_pkxY?usp=sharing)
+2. [Financial Data Analysis](https://colab.research.google.com/drive/18EaQZJxIvk2mb7PpJXDZjqKWba6TVSXY?usp=sharing)
 3. Other
    
 ## Resources
